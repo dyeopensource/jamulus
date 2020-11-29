@@ -145,8 +145,10 @@ CServerListManager::CServerListManager ( const quint16  iNPortNum,
     QObject::connect ( &TimerPingCentralServer, &QTimer::timeout,
         this, &CServerListManager::OnTimerPingCentralServer );
 
+    // it showed that ParseNetworkAddress blocks on some hardware like the Raspberry Pi,
+    // so, we should call that in a new thread to avoid blocking the signal processing (#752)
     QObject::connect ( &TimerRegistering, &QTimer::timeout,
-        this, &CServerListManager::OnTimerRegistering );
+        this, &CServerListManager::OnTimerRegistering, Qt::QueuedConnection );
 
     QObject::connect ( &TimerCLRegisterServerResp, &QTimer::timeout,
         this, &CServerListManager::OnTimerCLRegisterServerResp );

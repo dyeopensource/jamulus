@@ -6,12 +6,12 @@
     <message>
         <location filename="../../util.cpp" line="407"/>
         <source>This app enables musicians to perform real-time jam sessions over the internet.</source>
-        <translation>Ennek az alkalmazásnak a segítségével valós időben tudnak együtt játszani a zenészek az Interneten keresztül</translation>
+        <translation>Ezzel az alkalmazással valós időben tudnak együtt játszani a zenészek az Interneten keresztül.</translation>
     </message>
     <message>
         <location filename="../../util.cpp" line="408"/>
         <source>There is a server which collects  the audio data from each client, mixes the audio data and sends the mix  back to each client.</source>
-        <translation type="unfinished">Egy szerverre fut be a kliensektől a hanganyag, majd ezeket összemixeli és visszaküldi minden egyes kliensnek.</translation>
+        <translation type="unfinished">Egy szerverre fut be a kliensektől a hanganyag, ami ezeket összemixeli és visszaküldi minden egyes kliensnek.</translation>
     </message>
     <message>
         <location filename="../../util.cpp" line="427"/>
@@ -21,32 +21,32 @@
     <message>
         <location filename="../../util.cpp" line="428"/>
         <source>Qt cross-platform application framework</source>
-        <translation type="unfinished">Qt többplatformos alkalmazás framework</translation>
+        <translation type="unfinished">Qt cross-platform application framework</translation>
     </message>
     <message>
         <location filename="../../util.cpp" line="432"/>
         <source>Audio reverberation code by Perry R. Cook and Gary P. Scavone</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Visszhangoztató kód: Perry R. Cook és Gary P. Scavone</translation>
     </message>
     <message>
         <location filename="../../util.cpp" line="435"/>
         <source>Some pixmaps are from the</source>
-        <translation type="unfinished"></translation>
+        <translation>Néhány képfájl innét való:</translation>
     </message>
     <message>
         <location filename="../../util.cpp" line="437"/>
         <source>Country flag icons by Mark James</source>
-        <translation type="unfinished">Nemzeti zászlók ikonjai Mark Jamestől</translation>
+        <translation type="unfinished">Nemzeti zászlók ikonjai: Mark James</translation>
     </message>
     <message>
         <location filename="../../util.cpp" line="478"/>
         <source>For details on the contributions check out the </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A közreműkök tevékenységéről tekintse meg a </translation>
     </message>
     <message>
         <location filename="../../util.cpp" line="479"/>
         <source>Github Contributors list</source>
-        <translation>Github közreműködők listája</translation>
+        <translation>Github közreműködők listáját</translation>
     </message>
     <message>
         <location filename="../../util.cpp" line="483"/>
@@ -96,7 +96,7 @@
     <message>
         <location filename="../../util.cpp" line="508"/>
         <source>About </source>
-        <translation>A programról </translation>
+        <translation>A programról - </translation>
     </message>
 </context>
 <context>
@@ -109,7 +109,7 @@
     <message>
         <location filename="../../aboutdlgbase.ui" line="59"/>
         <source>TextLabelVersion</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">SzövegCímkeVerzió</translation>
     </message>
     <message>
         <location filename="../../aboutdlgbase.ui" line="72"/>
@@ -119,22 +119,22 @@
     <message>
         <location filename="../../aboutdlgbase.ui" line="106"/>
         <source>A&amp;bout</source>
-        <translation type="unfinished">A programról</translation>
+        <translation>A programról</translation>
     </message>
     <message>
         <location filename="../../aboutdlgbase.ui" line="120"/>
         <source>&amp;Libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>Programkönyvtárak</translation>
     </message>
     <message>
         <location filename="../../aboutdlgbase.ui" line="134"/>
         <source>&amp;Contributors</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Közreműködők</translation>
     </message>
     <message>
         <location filename="../../aboutdlgbase.ui" line="148"/>
         <source>&amp;Translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Fordítás</translation>
     </message>
     <message>
         <location filename="../../aboutdlgbase.ui" line="198"/>
@@ -147,12 +147,12 @@
     <message>
         <location filename="../../analyzerconsole.cpp" line="49"/>
         <source>Analyzer Console</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Elemző konzol</translation>
     </message>
     <message>
         <location filename="../../analyzerconsole.cpp" line="68"/>
         <source>Error Rate of Each Buffer Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Az egyes pufferméretek hibaarányai</translation>
     </message>
 </context>
 <context>
@@ -2858,7 +2858,7 @@
     <message>
         <location filename="../../util.cpp" line="1563"/>
         <source>Released under the GNU General Public License (GPL)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiadva a GNU General Public License (GPL) alatt</translation>
     </message>
 </context>
 <context>

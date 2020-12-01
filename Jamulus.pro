@@ -30,7 +30,8 @@ TRANSLATIONS = src/res/translation/translation_de_DE.ts \
     src/res/translation/translation_pl_PL.ts \
     src/res/translation/translation_sk_SK.ts \
     src/res/translation/translation_it_IT.ts \
-    src/res/translation/translation_sv_SE.ts
+    src/res/translation/translation_sv_SE.ts \
+    src/res/translation/translation_hu_HU.ts
 
 INCLUDEPATH += src
 
@@ -653,6 +654,8 @@ DISTFILES += ChangeLog \
     distributions/jamulus.png \
     src/res/translation/translation_de_DE.qm \
     src/res/translation/translation_fr_FR.qm \
+    src/res/translation/translation_hu_HU.qm \
+    src/res/translation/translation_hu_HU.ts \
     src/res/translation/translation_pt_PT.qm \
     src/res/translation/translation_pt_BR.qm \
     src/res/translation/translation_es_ES.qm \

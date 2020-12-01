@@ -29,6 +29,9 @@
     <qresource prefix="/translations">
         <file alias="translation_sv">res/translation/translation_sv_SE.qm</file>
     </qresource>
+    <qresource prefix="/translations">
+        <file alias="translation_hu">res/translation/translation_hu_HU.qm</file>
+    </qresource>
 
     <qresource prefix="/png/LEDs">
         <file>res/CLEDDisabledSmall.png</file>

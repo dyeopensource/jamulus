@@ -505,7 +505,7 @@
     <message>
         <location filename="../../chatdlgbase.ui" line="54"/>
         <source>&amp;Send</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Küldés</translation>
     </message>
 </context>
 <context>
@@ -513,7 +513,7 @@
     <message>
         <location filename="../../clientdlg.cpp" line="53"/>
         <source>Input Level Meter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bejövő jelszint mutatója</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="53"/>
@@ -594,47 +594,47 @@
     <message>
         <location filename="../../clientdlg.cpp" line="112"/>
         <source>Reverb effect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Visszhang effekt</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="113"/>
         <source>Reverb can be applied to one local mono audio channel or to both channels in stereo mode. The mono channel selection and the reverb level can be modified. For example, if a microphone signal is fed in to the right audio channel of the sound card and a reverb effect needs to be applied, set the channel selector to right and move the fader upwards until the desired reverb level is reached.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A visszhangosítást vagy az egyik helyi monó csatornára, vagy együtt a két csatornára sztereóban lehet alkalmazni. A monó csatorna kiválasztható, a visszhang szintje beállítható. Például ha egy mikrofon jelét vezetjük a hangkártya jobb hangcsatornájába és visszhang effektet teszünk rá, válassza ki a jobb csatornát és állítsa a tolókát felfelé a kívánt visszahangszint eléréséig.</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="124"/>
         <source>Reverb effect level setting</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Visszhang effekt szintjének beállítása</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="127"/>
         <source>Reverb Channel Selection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Visszhangosított csatorna választása</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="128"/>
         <source>With these radio buttons the audio input channel on which the reverb effect is applied can be chosen. Either the left or right input channel can be selected.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ezekkel a rádiógombokkal leht kiválasztani, hogy melyik csatornára kerüljön a visszhang. A jobb vagy a bal csatornát lehet kiválasztani.</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="133"/>
         <source>Left channel selection for reverb</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bal csatorna választása visszhangosításra</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="135"/>
         <source>Right channel selection for reverb</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jobb csatorna választása visszhangosításra</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="138"/>
         <source>Delay Status LED</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Késleltetés állapot LED</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="139"/>
         <source>Shows the current audio delay status:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A pillanatnyi hangkésleltetés állapotát mutatja:</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="141"/>
@@ -654,7 +654,7 @@
     <message>
         <location filename="../../clientdlg.cpp" line="143"/>
         <source>A session is still possible but it may be harder to play.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Az együtt zenélés még lehetséges, de nehezebb lehet játszani.</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="145"/>
@@ -664,22 +664,22 @@
     <message>
         <location filename="../../clientdlg.cpp" line="145"/>
         <source>The delay is too large for jamming.</source>
-        <translation type="unfinished"></translation>
+        <translation>Túl nagy a késleltetés az együtt zenéléshez.</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="151"/>
         <source>If this LED indicator turns red, you will not have much fun using the application.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ha ez a LED piros lesz, nem fogja tudni élvezettel használni ezt az alkalmazást.</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="155"/>
         <source>Delay status LED indicator</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Késleltetés állapotjelző LED</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="158"/>
         <source>Buffers Status LED</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Puffer állapotjelző LED</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="159"/>
@@ -689,43 +689,43 @@
     <message>
         <location filename="../../clientdlg.cpp" line="163"/>
         <source>The network jitter buffer is not large enough for the current network/audio interface jitter.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A hálózati jitter puffer nem elég nagy a jelenlegi hálózati/hangkártya jitterhez.</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="165"/>
         <source>The sound card&apos;s buffer delay (buffer size) is too small (see Settings window).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A hangkártya puffer késleltetése (puffer méret) túl kicsi (ld. a Beállítások ablakot)</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="167"/>
         <source>The upload or download stream rate is too high for your internet bandwidth.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A feltöltési vagy letöltési stream rate túl magas az Ön intenet sávszélességéhez</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="169"/>
         <source>The CPU of the client or server is at 100%.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A kliens vagy szerver proceszora 100%-on van</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="175"/>
         <source>Buffers status LED indicator</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Puffer állapotjelző LED</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="190"/>
         <location filename="../../clientdlg.cpp" line="1187"/>
         <source>C&amp;onnect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kapcsolódás</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="226"/>
         <source>software upgrade available</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">szoftverfrissítés elérhető</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="243"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>Fájl</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="245"/>
@@ -740,42 +740,42 @@
     <message>
         <location filename="../../clientdlg.cpp" line="253"/>
         <source>E&amp;xit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kilépés</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="258"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nézet</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="260"/>
         <source>&amp;Connection Setup...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kapcsolat beállítása</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="263"/>
         <source>My &amp;Profile...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Profil</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="266"/>
         <source>C&amp;hat...</source>
-        <translation type="unfinished"></translation>
+        <translation>Csevegés</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="269"/>
         <source>&amp;Settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Beállítások</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="275"/>
         <source>&amp;Analyzer Console...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Elemző konzol</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="281"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Szerkesztés</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="283"/>
@@ -1734,23 +1734,23 @@
     <message>
         <location filename="../../util.cpp" line="851"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Súgó</translation>
     </message>
     <message>
         <location filename="../../util.cpp" line="856"/>
         <location filename="../../util.cpp" line="861"/>
         <source>Getting &amp;Started...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kezdő lépések (idegen nyelven)...</translation>
     </message>
     <message>
         <location filename="../../util.cpp" line="857"/>
         <source>Software &amp;Manual...</source>
-        <translation type="unfinished"></translation>
+        <translation>Kézikönyv (idegen nyelven)...</translation>
     </message>
     <message>
         <location filename="../../util.cpp" line="864"/>
         <source>What&apos;s &amp;This</source>
-        <translation type="unfinished"></translation>
+        <translation>Mi ez?</translation>
     </message>
     <message>
         <location filename="../../util.cpp" line="866"/>

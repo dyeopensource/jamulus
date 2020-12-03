@@ -165,7 +165,7 @@
     <message>
         <location filename="../../audiomixerboard.cpp" line="848"/>
         <source>When connected to a server, the controls here allow you to set your local mix without affecting what others hear from you. The title shows the server name and, when known, whether it is actively recording.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Amikor már egy szerverhez csatlakozott, az itteni vezérlőkkel lehet a lokális mixet beállítani análkül, hogy a mások által hallott hangot befolyásolná. A cím mutatja a szerver nevét és ha ismert, azt is, hogy éppen rögzíti-e a hangot.</translation>
     </message>
     <message>
         <location filename="../../audiomixerboard.cpp" line="925"/>
@@ -195,14 +195,14 @@
         <location filename="../../audiomixerboard.cpp" line="243"/>
         <location filename="../../audiomixerboard.cpp" line="259"/>
         <source>Pan</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Közép</translation>
     </message>
     <message>
         <location filename="../../audiomixerboard.cpp" line="47"/>
         <location filename="../../audiomixerboard.cpp" line="160"/>
         <location filename="../../audiomixerboard.cpp" line="260"/>
         <source>Mute</source>
-        <translation type="unfinished">Néma</translation>
+        <translation type="unfinished">Némítás</translation>
     </message>
     <message>
         <location filename="../../audiomixerboard.cpp" line="48"/>
@@ -214,7 +214,7 @@
     <message>
         <location filename="../../audiomixerboard.cpp" line="66"/>
         <source>&amp;No grouping</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nincs csoportosítás</translation>
     </message>
     <message>
         <location filename="../../audiomixerboard.cpp" line="67"/>
@@ -232,27 +232,27 @@
     <message>
         <location filename="../../audiomixerboard.cpp" line="137"/>
         <source>Displays the pre-fader audio level of this channel.  All clients connected to the server will be assigned an audio level, the same value for every client.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Megjeleníti ennek a csatornának a keverés (féder) előtti hangerőszintjét. Minden klienshez, ami a szerverhez kapcsolódik, hozzárendelődik egy hangerőszint, minden klienshez ugyanaz az érték.</translation>
     </message>
     <message>
         <location filename="../../audiomixerboard.cpp" line="139"/>
         <source>Input level of the current audio channel at the server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A jelenlegi hangcsatorna bemeneti szintje a szerveren</translation>
     </message>
     <message>
         <location filename="../../audiomixerboard.cpp" line="142"/>
         <source>Mixer Fader</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Keverő hangerő (féder)</translation>
     </message>
     <message>
         <location filename="../../audiomixerboard.cpp" line="142"/>
         <source>Adjusts the audio level of this channel. All clients connected to the server will be assigned an audio fader, displayed at each client, to adjust the local mix.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Beállítja ennek a csatornának a hangerőszintjét. Minden klienshez, ami a szerverhez csatlakozik, tartozik egy féder, hogy a helyi mixet szabályozza.(?)</translation>
     </message>
     <message>
         <location filename="../../audiomixerboard.cpp" line="145"/>
         <source>Local mix level setting of the current audio channel at the server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A jelenlegi hangcsatorna helyi mix hangerejének beállítása a szerveren(?)</translation>
     </message>
     <message>
         <location filename="../../audiomixerboard.cpp" line="148"/>
@@ -262,12 +262,12 @@
     <message>
         <location filename="../../audiomixerboard.cpp" line="148"/>
         <source>Shows a status indication about the client which is assigned to this channel. Supported indicators are:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Az ehhez a csatornához rendelt kliens állapotát mutatja. Támogatott állapotjelzők:</translation>
     </message>
     <message>
         <location filename="../../audiomixerboard.cpp" line="150"/>
         <source>Speaker with cancellation stroke: Indicates that another client has muted you.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hangszóró áthúzva: azt jelzi, hogy a másik kliens elnémított téged.</translation>
     </message>
     <message>
         <location filename="../../audiomixerboard.cpp" line="153"/>
@@ -277,22 +277,22 @@
     <message>
         <location filename="../../audiomixerboard.cpp" line="155"/>
         <source>Panning</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Közép-beállítás</translation>
     </message>
     <message>
         <location filename="../../audiomixerboard.cpp" line="155"/>
         <source>Sets the pan from Left to Right of the channel. Works only in stereo or preferably mono in/stereo out mode.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A bal-jobb közepét(?) állítja be a csatornának. Csak sztereó csatornával működik, vagy monó bejövő és sztereó kimenő jel esetén.</translation>
     </message>
     <message>
         <location filename="../../audiomixerboard.cpp" line="158"/>
         <source>Local panning position of the current audio channel at the server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"><A jelenlegi hangcsatorna közép-beállítása a szerveren/translation>
     </message>
     <message>
         <location filename="../../audiomixerboard.cpp" line="160"/>
         <source>With the Mute checkbox, the audio channel can be muted.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A Némítás jelölőnégyzettel a hangcsatornát el lehet némítani.</translation>
     </message>
     <message>
         <location filename="../../audiomixerboard.cpp" line="162"/>
@@ -302,7 +302,7 @@
     <message>
         <location filename="../../audiomixerboard.cpp" line="164"/>
         <source>With the Solo checkbox, the audio channel can be set to solo which means that all other channels except the soloed channel are muted. It is possible to set more than one channel to solo.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A Szóló jelölőnégyzettel a hangcsatorna szólóba állítható, ami azt jelenti, hogy a szólónak jelölt csatornán kívül az összes el van némítva. Lehet egynél több csatornát is szólóba állítani.</translation>
     </message>
     <message>
         <location filename="../../audiomixerboard.cpp" line="168"/>
@@ -312,52 +312,52 @@
     <message>
         <location filename="../../audiomixerboard.cpp" line="170"/>
         <source>Group</source>
-        <translation>Csoport</translation>
+        <translation>Csoportosítás</translation>
     </message>
     <message>
         <location filename="../../audiomixerboard.cpp" line="170"/>
         <source>With the Grp checkbox, a group of audio channels can be defined. All channel faders in a group are moved in proportional synchronization if any one of the group faders are moved.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A Csoportosítás jelölőnégyzettel hangcsatornák egy csoportja határozható meg. Minden csatorna féder a csoportban arányosan együtt állítódik, ha bármelyik fédert a csoportban állítják.</translation>
     </message>
     <message>
         <location filename="../../audiomixerboard.cpp" line="173"/>
         <source>Group button</source>
-        <translation>Csoport gomb</translation>
+        <translation>Csoportosítás gomb</translation>
     </message>
     <message>
         <location filename="../../audiomixerboard.cpp" line="175"/>
         <source>Fader Tag</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Féder címke</translation>
     </message>
     <message>
         <location filename="../../audiomixerboard.cpp" line="175"/>
         <source>The fader tag identifies the connected client. The tag name, a picture of your instrument and the flag of your country can be set in the main window.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A féder címke azonosítja a kapcsolódott klienst. A címkén a név, a hnagszered ikonja és az országod zászlója állítható be a főablakban.</translation>
     </message>
     <message>
         <location filename="../../audiomixerboard.cpp" line="180"/>
         <source>Mixer channel instrument picture</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Keverőcsatrna hangszer ikon</translation>
     </message>
     <message>
         <location filename="../../audiomixerboard.cpp" line="182"/>
         <source>Mixer channel label (fader tag)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Keverőcsatorna címke (féder címke)</translation>
     </message>
     <message>
         <location filename="../../audiomixerboard.cpp" line="184"/>
         <source>Mixer channel country flag</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Keverőcsatorna zászló</translation>
     </message>
     <message>
         <location filename="../../audiomixerboard.cpp" line="228"/>
         <source>PAN</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">KÖZÉP</translation>
     </message>
     <message>
         <location filename="../../audiomixerboard.cpp" line="229"/>
         <source>MUTE</source>
-        <translation>NÉMÍT</translation>
+        <translation>NÉMÍTÁS</translation>
     </message>
     <message>
         <location filename="../../audiomixerboard.cpp" line="230"/>
@@ -367,7 +367,7 @@
     <message>
         <location filename="../../audiomixerboard.cpp" line="231"/>
         <source>GRP</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">CSOP</translation>
     </message>
     <message>
         <location filename="../../audiomixerboard.cpp" line="244"/>
@@ -442,7 +442,7 @@
     <message>
         <location filename="../../chatdlg.cpp" line="37"/>
         <source>Chat Window</source>
-        <translation>Csevegés</translation>
+        <translation>Csevegés ablak</translation>
     </message>
     <message>
         <location filename="../../chatdlg.cpp" line="37"/>
@@ -462,27 +462,27 @@
     <message>
         <location filename="../../chatdlg.cpp" line="43"/>
         <source>Enter the chat message text in the edit box and press enter to send the message to the server which distributes the message to all connected clients. Your message will then show up in the chat window.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Írd be az üzenet szövegét a szerkesztő mezőbe és üss entert, hogy elküldd a szerverre, ami továbbítja az összes kapcsolódott kliensre. Az üzeneted meg fog jelenni a csevegő ablakban-</translation>
     </message>
     <message>
         <location filename="../../chatdlg.cpp" line="48"/>
         <source>New chat text edit box</source>
-        <translation>Új üzenet</translation>
+        <translation>Új üzenet szerkesztése</translation>
     </message>
     <message>
         <location filename="../../chatdlg.cpp" line="59"/>
         <source>Type a message here</source>
-        <translation>Ide írja az üzenetet</translation>
+        <translation>Ide írd az üzenetet</translation>
     </message>
     <message>
         <location filename="../../chatdlg.cpp" line="64"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Szerkesztés</translation>
     </message>
     <message>
         <location filename="../../chatdlg.cpp" line="66"/>
         <source>Cl&amp;ear Chat History</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Csevegési előzmények törlése</translation>
     </message>
     <message>
         <location filename="../../chatdlg.cpp" line="136"/>
@@ -518,78 +518,78 @@
     <message>
         <location filename="../../clientdlg.cpp" line="53"/>
         <source>This shows the level of the two stereo channels for your audio input.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A bemenő hang két sztereó csatornájának szintjét mutatja.(?)</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="56"/>
         <source>Make sure not to clip the input signal to avoid distortions of the audio signal.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Győződj meg róla, hogy nem klippel(?) a bejövő jel, hogy elkerüld a torz hangot</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="59"/>
         <source>If the application is connected to a server and you play your instrument/sing into the microphone, the VU meter should flicker. If this is not the case, you have probably selected the wrong input channel (e.g. &apos;line in&apos; instead of the microphone input) or set the input gain too low in the (Windows) audio mixer.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ha az alkalmazás csatlakozik a szerverhez és zenélsz, vagy énekelsz a mikrofonba, a kivezérlésjelzőnek fel kell villannia. Ha ez nem történik meg, akkor lehet, hogy nem a megfelelő bemeneti hangcsatornát választottad ki (pl. vonal bemenet mikrofon bemenet helyett) vagy túl alacsonyra állítottad a bemenő hangerőszintet a (Windows) keverőpulton.</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="65"/>
         <source>For proper usage of the application, you should not hear your singing/instrument through the loudspeaker or your headphone when the software is not connected.This can be achieved by muting your input audio channel in the Playback mixer (not the Recording mixer!).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Az alkalmazás helyes működéséhez nem szabad hallanod az énekhnagodat vagy a hangszered hangját a hangszórón vagy a fejhallgatódon keresztül, amikor nem csatlakozol a szerverhez. Ezt úgy lehet elérni, hogy némítod a hangcsatornádat a lejátszási keverőn (nem a felvételi keverőn)(?)</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="71"/>
         <source>Input level meter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bemenő jel szintje</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="72"/>
         <source>Simulates an analog LED level meter.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Analóg LED jelszintmérő szimuláció</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="87"/>
         <source>Connect/Disconnect Button</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Csatlakozás/Kapcsolat bontása gomb</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="88"/>
         <source>Opens a dialog where you can select a server to connect to. If you are connected, pressing this button will end the session.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Megnyit egy ablakot, ahol ki tudod választani a szervert, amihez csatlakozni szeretnél. Ha kapcsolódtál, ezzel a gombbal lehet bontani a kapcsolatot.</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="92"/>
         <source>Connect and disconnect toggle button</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Csatlakozás és kapcsolat bontása gomb</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="95"/>
         <source>Local Audio Input Fader</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Helyi bejövő hang féder(?)</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="96"/>
         <source>Controls the relative levels of the left and right local audio channels. For a mono signal it acts as a pan between the two channels.For example, if a microphone is connected to the right input channel and an instrument is connected to the left input channel which is much louder than the microphone, move the audio fader in a direction where the label above the fader shows </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A helyei jobb és bal csatorna egymáshoz viszonyított jelszintjét állítja. Monó jelnél a két csatorna közöti közepet (pan?) állítja. Például ha egy mikrofon van kötve a jobb bejövő csatornára és egy hnagszer a balra, ami sokkal hangosabb, mint a mikrofon, állítsd a fédert abba az irányba, amerre a féder fölötti címke mutatja </translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="102"/>
         <location filename="../../clientdlg.cpp" line="659"/>
         <source>L</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">B</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="102"/>
         <source>, where</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">, ahol</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="103"/>
         <source>is the current attenuation indicator.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">a jelenlegi gyengülésjelző(?)</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="109"/>
         <source>Local audio input fader (left/right)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Helyi bejövő hang féder</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="112"/>
@@ -599,7 +599,7 @@
     <message>
         <location filename="../../clientdlg.cpp" line="113"/>
         <source>Reverb can be applied to one local mono audio channel or to both channels in stereo mode. The mono channel selection and the reverb level can be modified. For example, if a microphone signal is fed in to the right audio channel of the sound card and a reverb effect needs to be applied, set the channel selector to right and move the fader upwards until the desired reverb level is reached.</source>
-        <translation type="unfinished">A visszhangosítást vagy az egyik helyi monó csatornára, vagy együtt a két csatornára sztereóban lehet alkalmazni. A monó csatorna kiválasztható, a visszhang szintje beállítható. Például ha egy mikrofon jelét vezetjük a hangkártya jobb hangcsatornájába és visszhang effektet teszünk rá, válassza ki a jobb csatornát és állítsa a tolókát felfelé a kívánt visszahangszint eléréséig.</translation>
+        <translation type="unfinished">A visszhangosítást vagy az egyik helyi monó csatornára, vagy együtt a két csatornára sztereóban lehet alkalmazni. A monó csatorna kiválasztható, a visszhang szintje beállítható. Például ha egy mikrofon jelét vezetjük a hangkártya jobb hangcsatornájába és visszhang effektet teszünk rá, válaszd ki a jobb csatornát és állítsd a tolókát(?) felfelé a kívánt visszahangszint eléréséig.</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="124"/>
@@ -644,7 +644,7 @@
     <message>
         <location filename="../../clientdlg.cpp" line="141"/>
         <source>The delay is perfect for a jam session.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A késleltetés tökéelets az együtt zenéléshez.</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="143"/>
@@ -669,7 +669,7 @@
     <message>
         <location filename="../../clientdlg.cpp" line="151"/>
         <source>If this LED indicator turns red, you will not have much fun using the application.</source>
-        <translation type="unfinished">Ha ez a LED piros lesz, nem fogja tudni élvezettel használni ezt az alkalmazást.</translation>
+        <translation type="unfinished">Ha ez a LED piros lesz, nem fogod tudni élvezettel használni ezt az alkalmazást.</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="155"/>

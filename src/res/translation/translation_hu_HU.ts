@@ -287,7 +287,7 @@
     <message>
         <location filename="../../audiomixerboard.cpp" line="158"/>
         <source>Local panning position of the current audio channel at the server</source>
-        <translation type="unfinished"><A jelenlegi hangcsatorna közép-beállítása a szerveren/translation>
+        <translation type="unfinished">A jelenlegi hangcsatorna közép-beállítása a szerveren</translation>
     </message>
     <message>
         <location filename="../../audiomixerboard.cpp" line="160"/>
@@ -684,12 +684,12 @@
     <message>
         <location filename="../../clientdlg.cpp" line="159"/>
         <source>The buffers status LED shows the current audio/streaming status. If the light is red, the audio stream is interrupted. This is caused by one of the following problems:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A puffer állapotjelző LED a jelenlegi hang/adatfolyam (stream)(?) állapotát mutatja. Ha piros, a hangfolyan megszakadt. Ez a következő problémák miatt lehet:</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="163"/>
         <source>The network jitter buffer is not large enough for the current network/audio interface jitter.</source>
-        <translation type="unfinished">A hálózati jitter puffer nem elég nagy a jelenlegi hálózati/hangkártya jitterhez.</translation>
+        <translation type="unfinished">A hálózati jitter(?) puffer nem elég nagy a jelenlegi hálózati/hangkártya jitterhez(?).</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="165"/>
@@ -699,7 +699,7 @@
     <message>
         <location filename="../../clientdlg.cpp" line="167"/>
         <source>The upload or download stream rate is too high for your internet bandwidth.</source>
-        <translation type="unfinished">A feltöltési vagy letöltési stream rate túl magas az Ön intenet sávszélességéhez</translation>
+        <translation type="unfinished">A feltöltési vagy letöltési stream rate(?) túl magas az Ön intenet sávszélességéhez</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="169"/>
@@ -730,12 +730,12 @@
     <message>
         <location filename="../../clientdlg.cpp" line="245"/>
         <source>&amp;Load Mixer Channels Setup...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Keverőcsatorna beállítások betöltése...</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="248"/>
         <source>&amp;Save Mixer Channels Setup...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Keverőcsatorna beállítások mentése...</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="253"/>
@@ -780,83 +780,83 @@
     <message>
         <location filename="../../clientdlg.cpp" line="283"/>
         <source>N&amp;o Channel Sorting</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nincs csatornarendezés</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="286"/>
         <source>Sort Channel Users by &amp;Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A csatorna felhasználóinak rendezése &amp;Név szerint</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="289"/>
         <source>Sort Channel Users by &amp;Instrument</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A csatorna felhasználóinak rendezése Hangszer szerint</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="292"/>
         <source>Sort Channel Users by &amp;Group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A csatorna felhasználóinak rendezése Csoport szerint</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="295"/>
         <source>Sort Channel Users by &amp;City</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A csatorna felhasználóinak rendezése Város szerint</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="325"/>
         <source>Use &amp;Two Rows Mixer Panel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kétsoros keverőpanel használata</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="333"/>
         <source>&amp;Clear All Stored Solo and Mute Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Minden tárolt Szóló és Némítás beállítás törlése</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="336"/>
         <source>Set All Faders to New Client &amp;Level</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Minden féder(?) beállítása az új kliens szintre</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="646"/>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Közép</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="653"/>
         <source>R</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">J</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="745"/>
         <source>Central Server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Központi szerver</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="790"/>
         <location filename="../../clientdlg.cpp" line="805"/>
         <source>Select Channel Setup File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Csatornabeállítás fájl kiválasztása</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="921"/>
         <source>user</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">felhasználó</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="925"/>
         <source>users</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">felhasználók</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="1123"/>
         <source>The soundcard device does not work correctly. Please check the device selection and the driver settings.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A hangkártya eszköz nem működik megfelelően. Ellenőrizd az eszközválasztást és a meghajtó beállításokat.</translation>
     </message>
     <message>
         <location filename="../../clientdlg.cpp" line="1162"/>
         <source>D&amp;isconnect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Szétkapcsolás</translation>
     </message>
 </context>
 <context>
@@ -864,82 +864,82 @@
     <message>
         <location filename="../../clientdlgbase.ui" line="116"/>
         <source>Delay</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Késleltetés</translation>
     </message>
     <message>
         <location filename="../../clientdlgbase.ui" line="168"/>
         <source>Buffers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pufferek</translation>
     </message>
     <message>
         <location filename="../../clientdlgbase.ui" line="229"/>
         <source>Input</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bemenet</translation>
     </message>
     <message>
         <location filename="../../clientdlgbase.ui" line="277"/>
         <source>L</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">B</translation>
     </message>
     <message>
         <location filename="../../clientdlgbase.ui" line="287"/>
         <source>R</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">J</translation>
     </message>
     <message>
         <location filename="../../clientdlgbase.ui" line="326"/>
         <source>&amp;Mute Myself</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Elnémítom magamat</translation>
     </message>
     <message>
         <location filename="../../clientdlgbase.ui" line="333"/>
         <source>&amp;Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Beállítások</translation>
     </message>
     <message>
         <location filename="../../clientdlgbase.ui" line="340"/>
         <source>&amp;Chat</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Csevegés</translation>
     </message>
     <message>
         <location filename="../../clientdlgbase.ui" line="347"/>
         <source>C&amp;onnect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kapcsolódás</translation>
     </message>
     <message>
         <location filename="../../clientdlgbase.ui" line="376"/>
         <source>Pan</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Közép(?)</translation>
     </message>
     <message>
         <location filename="../../clientdlgbase.ui" line="392"/>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Közép</translation>
     </message>
     <message>
         <location filename="../../clientdlgbase.ui" line="466"/>
         <source>Reverb</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Visszhang</translation>
     </message>
     <message>
         <location filename="../../clientdlgbase.ui" line="532"/>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bal</translation>
     </message>
     <message>
         <location filename="../../clientdlgbase.ui" line="539"/>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jobb</translation>
     </message>
     <message>
         <location filename="../../clientdlgbase.ui" line="554"/>
         <source>MUTED (Other people won&apos;t hear you)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ELNÉMÍTVA (mások nem hallanak téged)</translation>
     </message>
     <message>
         <location filename="../../clientdlgbase.ui" line="577"/>
         <source>Update check</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Frissítés ellenőrzése</translation>
     </message>
 </context>
 <context>
@@ -947,27 +947,27 @@
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="41"/>
         <source>Jitter Buffer Size</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jitter(?) puffer mérete</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="41"/>
         <source>The jitter buffer compensates for network and sound card timing jitters. The size of the buffer therefore influences the quality of the audio stream (how many dropouts occur) and the overall delay (the longer the buffer, the higher the delay).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A puffer kompenzálja a hálózati és hangkártya időzítési problémáit (későn érkező adatok). A puffer mérete befolyásolja hang-adatfolyam minőségét (hány kimaradás fordul elő) és a teljes késleltetést (minél nagyobb a puffer, annál nagyobb a késleltetés).</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="45"/>
         <source>You can set the jitter buffer size manually for the local client and the remote server. For the local jitter buffer, dropouts in the audio stream are indicated by the light below the jitter buffer size faders. If the light turns to red, a buffer overrun/underrun has taken place and the audio stream is interrupted.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kézzel beállítható a helyi kliens és a távoli szerver puffermérete. A helyi puffernél a hangkimaradást a pufferméter féderek(?) alatti lámpa jelzi. A lámpa piros színe azt jelzi, hogy a puffer kiürült, vagy túlcsordult és a hang-adatfolyam megszakadt.</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="50"/>
         <source>The jitter buffer setting is therefore a trade-off between audio quality and overall delay.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Így a pufferméret beállítása kompromisszum a hangminőség és a teljes késleltetés között.</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="52"/>
         <source>If the Auto setting is enabled, the jitter buffers of the local client and the remote server are set automatically based on measurements of the network and sound card timing jitter. If Auto is enabled, the jitter buffer size faders are disabled (they cannot be moved with the mouse).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ha az automatikus beállítás engedélyezett, akkor a helyi kliens és a távoli szerver pufferméretét a szoftver a hálózat és a hangkártya időzítésén végzett számítások alapján állítja be. Automatikus beállítás esetén a pufferméretek féderjei(?) inaktívak (nem lehet állítani őket az egérrel).</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="59"/>

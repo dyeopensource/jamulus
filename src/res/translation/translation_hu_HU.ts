@@ -972,12 +972,12 @@
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="59"/>
         <source>If the Auto setting is enabled, the network buffers of the local client and the remote server are set to a conservative value to minimize the audio dropout probability. To tweak the audio delay/latency it is recommended to disable the Auto setting and to lower the jitter buffer size manually by using the sliders until your personal acceptable amount of dropouts is reached. The LED indicator will display the audio dropouts of the local jitter buffer with a red light.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Auto beállítás mellett a helyi kliens és a távoli szerver hálózati puffere egy olyan biztonságos értékre van állítva, ami minimaizálja a hangkiesés valószínűségét. A hangkéséssel való trükközéshez javasolt kikapcsolni az Auto módot és kézzel lejjebb állítani a jitter(?) puffer méretét a csúszkával amíg elfogadatónak találod a hangkiesések mennyiségét. A LED pirosan jelzi a hangkieséseket a helyi jitter(?) puffernél.</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="75"/>
         <source>Local jitter buffer slider control</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A helyi jitter(?) puffer méretének csúszkája</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="78"/>
@@ -997,230 +997,230 @@
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="86"/>
         <source>Sound Card Device</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hangkártya eszköz</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="87"/>
         <source>The ASIO driver (sound card) can be selected using </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Az ASIO meghajtó (hangkártya) a következő segítségével választható ki: </translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="88"/>
         <source> under the Windows operating system. Under MacOS/Linux, no sound card selection is possible. If the selected ASIO driver is not valid an error message is shown and the previous valid driver is selected.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> Windows rendszerben. MacOS/Linux rendszerben nem lehet kiválasztani hangkártyát. Ha a kiválasztott ASIO meghajtó nem érvényes, megjelenik egy hibaüzenet és az előző érvényes meghajtó kerül kiválasztásra.</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="90"/>
         <source>If the driver is selected during an active connection, the connection is stopped, the driver is changed and the connection is started again automatically.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ha a meghajtót aktív kapcsolat közben választod ki, a kapcsolat megszakad, a meghajtó megváltozik és a kapcsolat automatikusan újraindul.</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="95"/>
         <source>Sound card device selector combo box</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hangkártya választó legördülő lista</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="99"/>
         <source>If the ASIO4ALL driver is used, please note that this driver usually introduces approx. 10-30 ms of additional audio delay. Using a sound card with a native ASIO driver is therefore recommended.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Az ASIO4ALL meghajtó általában kb. 10-30 ms-et ad a késleltetéshez. Ezért érdemes inkább egy natív ASIO meghajtóva rendelkező hangkártyát használni.</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="102"/>
         <source>If you are using the kX ASIO driver, make sure to connect the ASIO inputs in the kX DSP settings panel.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ha a kX ASIO meghajtót használod, csatlakoztasd az ASIO bemeneteket a kX DSP beállítások panelbe.</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="108"/>
         <source>Sound Card Channel Mapping</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hangkártya csatorna leképezés</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="109"/>
         <source>If the selected sound card device offers more than one input or output channel, the Input Channel Mapping and Output Channel Mapping settings are visible.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ha a kiválasztott hangkártyának egynél több bemeneti vagy kimeneti csatornája van, látható a Bemeneti csatorna leképezés és a Kimeneti csatorna leképezés beállítás.</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="111"/>
         <source>For each </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mindegyik </translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="112"/>
         <source> input/output channel (Left and Right channel) a different actual sound card channel can be selected.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> bemeneti/kimeneti csatornához (Bal és Jobb csatorna) egy különböző aktuális hangkártya csatorna választható.</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="119"/>
         <source>Left input channel selection combo box</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bal bemeneti csatorna választó legördülő lista</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="121"/>
         <source>Right input channel selection combo box</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jobb bemeneti csatorna választó legördülő lista</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="123"/>
         <source>Left output channel selection combo box</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bal kimeneti csatorna választó legördülő lista</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="125"/>
         <source>Right output channel selection combo box</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jobb kimeneti csatorna választó legördülő lista</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="128"/>
         <source>Enable Small Network Buffers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kis hálózati pufferek engedélyezése</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="128"/>
         <source>If enabled, the support for very small network audio packets is activated. Very small network packets are only actually used if the sound card buffer delay is smaller than </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ha engedélyezve van, aktiválódik  a nagyon kicsi hálózati hang-adatcsomagok támogatása. A nagyon kis hálózati csomagokat csak akkor használja az alkalmazás, ha a késleltetési puffer kisebb, mint </translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="131"/>
         <source> samples. The smaller the network buffers, the lower the audio latency. But at the same time the network load increases and the probability of audio dropouts also increases.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> minta. Minél kisebbek a hálózati pufferek, annál kisebb a hangkésleltetés. De ugyanakkor megnövekszik a hálózati adatforgalom és növekszik a hangkiesések valószínűsége is.</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="135"/>
         <source>Enable small network buffers check box</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kis hálózati pufferek engedélyezése jelölőnégyzet</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="138"/>
         <source>Sound Card Buffer Delay</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hangkártya puffer késleltetés</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="139"/>
         <source>The buffer delay setting is a fundamental setting of this software. This setting has an influence on many connection properties.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A pufferkésleltetés egy alapvető beállítás ebben az alaklmazásban. Ennek a beállításnak a kapcsolat sok más tulajdonságára van hatása.</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="141"/>
         <source>Three buffer sizes are supported</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Három pufferméret támogatott</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="144"/>
         <source>64 samples: The preferred setting. Provides the lowest latency but does not work with all sound cards.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">64 minta: A javasolt beállítás. A legkisebb késleltetést adja, ed nem működik minden hangkártyával.</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="146"/>
         <source>128 samples: Should work for most available sound cards.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">128 minta: Valószínűleg működik a legtöbb hangkártyánál</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="148"/>
         <source>256 samples: Should only be used on very slow computers or with a slow internet connection.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">256 minta: Csak nagyon lassú számítógépeken vagy nagyon lassú internetkapcsolatnál kell használni</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="150"/>
         <source>Some sound card drivers do not allow the buffer delay to be changed from within the application. In this case the buffer delay setting is disabled and has to be changed using the sound card driver. On Windows, press the ASIO Setup button to open the driver settings panel. On Linux, use the Jack configuration tool to change the buffer size.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Néhány hangkártya meghajtó nem engedélyezi a késleltetési puffer megváltoztatását az alkalmazáson belül. Ebben az esetben a puffer késleltetés beállítása le van tiltva és a hangkártya meghajtójával kell beállítani. Windowson nyomd meg az ASIO Beállítás gombot, hogy megnyíljon a meghajtó beállítás panel. Linuxon használd a Jack beállító eszközt a pufferméret megváltoztatásához.</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="156"/>
         <source>If no buffer size is selected and all settings are disabled, an unsupported buffer size is used by the driver. The application will still work with this setting but with restricted performance.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ha nincs pufferméret kiválasztva és minden beállítás le van tiltva, egy nem támogatott pufferméretet használa meghajtó. Az alkalmazás ezzel a beállítással is működni fog, de korlátozott hatékonysággal.</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="160"/>
         <source>The actual buffer delay has influence on the connection status, the current upload rate and the overall delay. The lower the buffer size, the higher the probability of a red light in the status indicator (drop outs) and the higher the upload rate and the lower the overall delay.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Az aktuális puffer késleltetésnek hatása van a kapcsolat állapotára, a pillanatnyi feltöltési rate(?) és a teljes késleltetésre. Minél kisebb a puffer mérete, annál nagyobb a valószínűsége, hogy az állapotjelző pirosra vált (kieső hangok), illetve nagyobb a feltöltési rate(?) és kisebb a teljes késleltetés.</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="165"/>
         <source>The buffer setting is therefore a trade-off between audio quality and overall delay.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Így a pufferméret beállítása kompromisszum a a hangminőség és a teljes késleltetés között.</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="169"/>
         <source>If the buffer delay settings are disabled, it is prohibited by the audio driver to modify this setting from within the software. On Windows, press the ASIO Setup button to open the driver settings panel. On Linux, use the Jack configuration tool to change the buffer size.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ha a puffer késlelteés beállítások le vannak tiltva, az audio(?) meghajtó számár nincs engedélyezve a beállítás módosítása az alkalmazásból. Windowson nyomd meg az ASIO beállítás gombot, hogy megjelenjen a meghajtó beállítások panel. Linuxon használd a Jack beállító eszközt a puffer méretének megváltoztatásához.</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="177"/>
         <source>64 samples setting radio button</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">64 minta rádiógomb</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="180"/>
         <source>128 samples setting radio button</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">128 minta rádiógomb</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="183"/>
         <source>256 samples setting radio button</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">256 minta rádiógomb</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="186"/>
         <source>ASIO setup push button</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ASIO beállítás gomb</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="190"/>
         <source>Skin</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stílus</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="190"/>
         <source>Select the skin to be used for the main window.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Válaszd ki a főablak stílusát</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="193"/>
         <source>Skin combo box</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stílusválasztó legördülő lista</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="196"/>
         <source>Audio Channels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hang csatornák</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="196"/>
         <source>Selects the number of audio channels to be used for communication between client and server. There are three modes available:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kiválasztja a kliens és a szerver között használni kívánt hangcsatornák számát. Három mód van:</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="200"/>
         <location filename="../../clientsettingsdlg.cpp" line="309"/>
         <source>Mono</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Monó</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="200"/>
         <source>and </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">és </translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="201"/>
         <location filename="../../clientsettingsdlg.cpp" line="210"/>
         <location filename="../../clientsettingsdlg.cpp" line="311"/>
         <source>Stereo</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sztereó</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="201"/>
         <source>These modes use one and two audio channels respectively.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ezek a módok rendre egy, illetve két  hangcsatornát használnak.</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="203"/>
         <source>Mono in/Stereo-out</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sztereó kimenet</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="203"/>
         <source>The audio signal sent to the server is mono but the return signal is stereo. This is useful if the sound card has the instrument on one input channel and the microphone on the other. In that case the two input signals can be mixed to one mono channel but the server mix is heard in stereo.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A szerverre küldött hang monó, de a visszaadott jel sztereó. Ez akkor hasznos, ha a hangkártya egyik bemeneti csatornáján a hangszer van, a másikon pedig a mikrofon. Ebben az esetben a két bemeneti jel egy monó csatornára keverhető, de a szerver mix sztereóban hallható.</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="210"/>
@@ -1240,12 +1240,12 @@
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="219"/>
         <source>Audio channels combo box</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hangcsatornák legördülő lista</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="222"/>
         <source>Audio Quality</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hangminőség</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="222"/>
@@ -1255,12 +1255,12 @@
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="229"/>
         <source>Audio quality combo box</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hangminőség legördülő lista</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="232"/>
         <source>New Client Level</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Új klien szint</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="233"/>
@@ -1270,22 +1270,22 @@
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="241"/>
         <source>New client level edit box</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Új kliens szint szerkesztő mező</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="244"/>
         <source>Custom Central Server Address</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Egyéni központi szerver cím</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="245"/>
         <source>Leave this blank unless you need to enter the address of a central server other than the default.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hagyd üresen, kivéve ha az alapértelmezett központi szervertől különböző címet kell megadnod.</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="250"/>
         <source>Central server address combo box</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Központi szerver címe legördülő lista</translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="253"/>
@@ -1377,7 +1377,7 @@
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="601"/>
         <source>The selected audio device could not be used because of the following error: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A kiválasztott hangeszköz a következő hiba miatt nem használható: </translation>
     </message>
     <message>
         <location filename="../../clientsettingsdlg.cpp" line="603"/>
@@ -2701,17 +2701,17 @@
     <message>
         <location filename="../../../mac/sound.cpp" line="127"/>
         <source>CoreAudio input AudioHardwareGetProperty call failed. It seems that no sound card is available in the system.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">CoreAudio bemenet AudioHardwareGetProperty hívás hiba. Úgy tűnik, nincs a rendszerben elérhető hangkártya.</translation>
     </message>
     <message>
         <location filename="../../../mac/sound.cpp" line="141"/>
         <source>CoreAudio output AudioHardwareGetProperty call failed. It seems that no sound card is available in the system.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">CoreAudio kimenet AudioHardwareGetProperty hívás hiba. Úgy tűnik, nincs a rendszerben elérhető hangkártya.</translation>
     </message>
     <message>
         <location filename="../../../mac/sound.cpp" line="460"/>
         <source>The previously selected audio device is no longer available. The system default audio device will be selected instead.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Az előzőleg kiválasztott hangeszköz nem érhető el. Helyette az alapértelmezett hangeszköz lesz kiválasztva.</translation>
     </message>
     <message>
         <location filename="../../../mac/sound.cpp" line="490"/>
@@ -2736,17 +2736,17 @@
     <message>
         <location filename="../../../mac/sound.cpp" line="606"/>
         <source>The audio input stream format for this audio device is not compatible with this software.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A hangeszköz bejövő hang-adatfolyam formátuma nem kompatíbilis ezzel az alkalmazással.</translation>
     </message>
     <message>
         <location filename="../../../mac/sound.cpp" line="624"/>
         <source>The audio output stream format for this audio device is not compatible with this software.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A hangeszköz kimenő hang-adatfolyam formátuma nem kompatíbilis ezzel az alkalmazással.</translation>
     </message>
     <message>
         <location filename="../../../mac/sound.cpp" line="897"/>
         <source>The buffer sizes of the current input and output audio device cannot be set to a common value. Please choose other input/output audio devices in your system settings.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A jelenlegi kimeneti és bementi hangeszköz pufferméretei nem állíthatók közös értékre. Válassz másik kimeneti/bemeneti hangeszközt a rendszerbeállításokban.</translation>
     </message>
     <message>
         <location filename="../../../windows/sound.cpp" line="63"/>
@@ -2756,48 +2756,48 @@
     <message>
         <location filename="../../../windows/sound.cpp" line="122"/>
         <source>The audio device does not support the required sample rate. The required sample rate is: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A hangeszköz nem támogatja a kívánt mintavételezési frekvenciát. A kívánt mintavételezési frencia: </translation>
     </message>
     <message>
         <location filename="../../../windows/sound.cpp" line="135"/>
         <source>The audio device does not support setting the required sampling rate. This error can happen if you have an audio interface like the Roland UA-25EX where you set the sample rate with a hardware switch on the audio device. If this is the case, please change the sample rate to </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A hangeszköz nem támogatja a kívánt mintavételezési frekvenciát. Ez a hiba akkor fordulhat elő, ha olyan hangkártyád van, mint a Roland UA-25EX, amin fizikai kapcsolóval állítod a mintavételezési frekvenciát. Ebben az esetben állítd a mintavételezési frekvenciát a következőre: </translation>
     </message>
     <message>
         <location filename="../../../windows/sound.cpp" line="139"/>
         <source> Hz on the device and restart the </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">< Hz az eszközön és indítsd újra a /translation>
     </message>
     <message>
         <location filename="../../../windows/sound.cpp" line="140"/>
         <source> software.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> alkalmazást.</translation>
     </message>
     <message>
         <location filename="../../../windows/sound.cpp" line="150"/>
         <source>The audio device does not support the required number of channels. The required number of channels for input and output is: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A hangeszköz nem támogatja a kívánt számú csatornát. A kívánt bementi és kimeneti csatornaszám: </translation>
     </message>
     <message>
         <location filename="../../../windows/sound.cpp" line="186"/>
         <location filename="../../../windows/sound.cpp" line="216"/>
         <source>Required audio sample format not available.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A kívánt hangminta formátum nem érhető el.</translation>
     </message>
     <message>
         <location filename="../../../windows/sound.cpp" line="532"/>
         <source>No ASIO audio device (driver) found.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nem található ASIO hangeszköz (meghajtó).</translation>
     </message>
     <message>
         <location filename="../../../windows/sound.cpp" line="533"/>
         <source>The </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A </translation>
     </message>
     <message>
         <location filename="../../../windows/sound.cpp" line="533"/>
         <source> software requires the low latency audio interface ASIO to work properly. This is not a standard Windows audio interface and therefore a special audio driver is required. Either your sound card has a native ASIO driver (which is recommended) or you might want to use alternative drivers like the ASIO4All driver.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> alkalmazáshoz szükséges, hogy a kis késleltetésű ASIO hanginterfész jól működjön. Ez nem eg hagyományos Windows hanginterfész és ezért egy különleges hangmeghajtó szükséges. Ha a hangkártyádnak van natív ASIO meghajtója, akkor javasolt ezt használni. Ha nincs, akkor alternatívaként használható as ASIO4All vagy más meghajtó.</translation>
     </message>
 </context>
 <context>
@@ -2805,7 +2805,7 @@
     <message>
         <location filename="../../soundbase.cpp" line="94"/>
         <source>The audio driver properties have changed to a state which is incompatible with this software. The selected audio device could not be used because of the following error:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A hangeszköz meghajtó beállításai nem kompatíbilisek ezzel az alkalmazással. A kiválasztott hangeszköz nem használható a következő hiba miatt:</translation>
     </message>
     <message>
         <location filename="../../soundbase.cpp" line="99"/>
@@ -2815,32 +2815,32 @@
     <message>
         <location filename="../../soundbase.cpp" line="100"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bezár</translation>
     </message>
     <message>
         <location filename="../../soundbase.cpp" line="143"/>
         <source>No usable </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nem találtunk </translation>
     </message>
     <message>
         <location filename="../../soundbase.cpp" line="144"/>
         <source> audio device (driver) found.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> használható hangeszközt (meghajtót).</translation>
     </message>
     <message>
         <location filename="../../soundbase.cpp" line="145"/>
         <source>In the following there is a list of all available drivers with the associated error message:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Az alábbiakban következik az elérhető meghajtók listája a hozzájuk tartozó hibaüzenetekkel:</translation>
     </message>
     <message>
         <location filename="../../soundbase.cpp" line="159"/>
         <source>Do you want to open the ASIO driver setups?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Megnyitod az ASIO meghajtó beállításokat?</translation>
     </message>
     <message>
         <location filename="../../soundbase.cpp" line="166"/>
         <source> could not be started because of audio interface issues.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> nem lehetett elindítani hangkártya problémák miatt</translation>
     </message>
 </context>
 <context>
@@ -2848,7 +2848,7 @@
     <message>
         <location filename="../../util.cpp" line="1546"/>
         <source>, Version </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">, Verzió</translation>
     </message>
     <message>
         <location filename="../../util.cpp" line="1559"/>
@@ -2866,7 +2866,7 @@
     <message>
         <location filename="../../global.h" line="235"/>
         <source>For more information use the What&apos;s This help (help menu, right mouse button or Shift+F1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">További információért használd a Mi ez súgót (súgó menü, jobb egérgomb vagy Shift+F1)</translation>
     </message>
 </context>
 </TS>

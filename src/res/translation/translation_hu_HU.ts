@@ -2766,7 +2766,7 @@
     <message>
         <location filename="../../../windows/sound.cpp" line="139"/>
         <source> Hz on the device and restart the </source>
-        <translation type="unfinished">< Hz az eszközön és indítsd újra a /translation>
+        <translation type="unfinished"> Hz az eszközön és indítsd újra a </translation>
     </message>
     <message>
         <location filename="../../../windows/sound.cpp" line="140"/>
